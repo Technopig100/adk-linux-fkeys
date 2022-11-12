@@ -1,0 +1,3 @@
+#!/bin/bash
+
+python3 /usr/share/adklinux-fkeys/adklinux-fkeys.py
