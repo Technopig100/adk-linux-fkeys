@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Fix Pacman Keys
+GenericName=fix-pacman-databases-and-keys
+Comment=Fix Pacman Databases and Keys
+Icon=stock_keyring
+Exec=/usr/local/bin/adklinux-fkeys
+Terminal=true
+Categories=System;Pacman;ConsoleOnly;
+Keywords=system;process;task;fix
