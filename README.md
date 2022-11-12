@@ -1,12 +1,12 @@
-# Adk-linux Fix Keys
+# ADK-Linux Fix Keys
 
 # Purpose
 
-- remove old ADK-linux Keys
+- Remove Old Keys
 
-- add keys to ADK-Linux
+- Add New Keys
 
-- refresh database used by ADK-Linux
+- Refresh The Pacman Database
 
 
 
