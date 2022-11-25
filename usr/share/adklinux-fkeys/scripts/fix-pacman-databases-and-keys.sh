@@ -3,9 +3,9 @@
 
 echo
 tput setaf 1
-#echo "###############################################################################"
+echo "###############################################################################"
 echo "####        Deleting and Refreshing Pacman Keyrings and Database           ####"
-#echo "###############################################################################"
+echo "###############################################################################"
 tput sgr0
 echo
 sudo rm /var/lib/pacman/sync/*
@@ -18,10 +18,7 @@ sudo pacman -Syy
 #wait
 #echo
 tput setaf 2
-#echo "###############################################################################"
-echo  "####                   You May Now Update Your System!!"                   ####"
-#echo "###############################################################################"
+echo
+echo "####                   You May Now Update Your System!!                    ####"
 #sleep 2
 tput sgr0
-echo
-echo "              You May Now Update Your System!!"                   ####"
