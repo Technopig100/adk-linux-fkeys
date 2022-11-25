@@ -19,7 +19,9 @@ sudo pacman -Syy
 #echo
 tput setaf 2
 #echo "###############################################################################"
-echo "You May Now Update Your System!!"
+echo  "####                   You May Now Update Your System!!"                   ####"
 #echo "###############################################################################"
 #sleep 2
 tput sgr0
+echo
+echo "              You May Now Update Your System!!"                   ####"
